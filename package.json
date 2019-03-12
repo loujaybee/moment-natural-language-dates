@@ -1,0 +1,8 @@
+{
+  "name": "moment-natural-language-dates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:loujaybee/moment-natural-language-dates.git",
+  "author": "<contact@louisjohnbichard.co.uk>",
+  "license": "MIT"
+}
