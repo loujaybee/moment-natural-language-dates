@@ -1,5 +1,9 @@
 
-![Logo](https://raw.githubusercontent.com/loujaybee/moment-natural-language-dates/master/dateslogo.png)
+# Natural Language Dates
+
+<p align="center">
+  <img width="408" height="202" src="https://raw.githubusercontent.com/loujaybee/moment-natural-language-dates/master/dateslogo.png">
+</p>
 
 A library for taking a human readable string, and converting to dates, seconds or whatever the implementor specifies for consumption.
 
